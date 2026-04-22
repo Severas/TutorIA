@@ -15,7 +15,7 @@ Este guia explica como configurar a API de Inteligência Artificial (Copilot) no
 
 ## 📥 Instalação do Plugin Copilot
 
-1. Baixe o plugin oficial: `moodle-local_copilot` (disponível no GitHub).
+1. Baixe o plugin oficial: [moodle-local_copilot](https://github.com/microsoft/moodle-local_copilot)  
 2. Acesse o Moodle como administrador.
 3. Vá em:  
    **Site administration > Plugins > Install plugin**.
