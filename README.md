@@ -52,6 +52,36 @@ Defina as ações disponíveis:
 
 ---
 
+## 💬 Criando um Chatbot de Auxílio aos Usuários
+
+Com a extensão instalada, é possível configurar o Copilot como **chatbot educacional** dentro do Moodle:
+
+1. **Ativar o Copilot como tutor inteligente**  
+   - Habilite o Copilot em fóruns, atividades e no painel do curso.  
+   - Os alunos poderão interagir diretamente com o assistente.
+
+2. **Configurar AI placements para chatbot**  
+   - **Fóruns** → respostas automáticas a dúvidas comuns.  
+   - **Editor de texto** → resumos e explicações de conceitos.  
+   - **Painel do curso** → chatbot aparece como “assistente virtual” para guiar o estudante.
+
+3. **Personalização do chatbot**  
+   - Defina se o foco será **pedagógico** (explicações, quizzes, feedback) ou **administrativo** (orientações sobre prazos, uso da plataforma).  
+   - Configure permissões para que alunos interajam livremente e docentes recebam relatórios.
+
+4. **Fluxo de funcionamento**  
+   - **Entrada**: perguntas ou interações dos alunos.  
+   - **Processamento**: análise da IA (Copilot) com base em dados do Moodle.  
+   - **Saída**: respostas automáticas, recomendações de conteúdo, feedback imediato.
+
+5. **Benefícios do chatbot**  
+   - Responde dúvidas em tempo real.  
+   - Reduz tempo de resposta docente.  
+   - Aumenta engajamento e autonomia dos alunos.  
+   - Libera professores para casos complexos e mentoria individual.
+
+---
+
 ## 🧪 Testes e Validação
 
 1. Crie um **curso piloto** e habilite o Copilot apenas nessa disciplina.
@@ -93,5 +123,4 @@ Aplicado no curso de Engenharia Eletrônica da UTFPR – Campus Toledo:
 
 ## ✅ Conclusão
 
-A integração do Copilot no Moodle representa um avanço estratégico para a Educação a Distância, oferecendo suporte adaptativo, inclusivo e eficaz. Este tutorial fornece os passos necessários para docentes e administradores configurarem e utilizarem a IA em suas disciplinas.
-
+A integração do Copilot no Moodle representa um avanço estratégico para a Educação a Distância, oferecendo suporte adaptativo, inclusivo e eficaz. Além de tutoria inteligente, é possível configurar o Copilot como **chatbot educacional**, ampliando o suporte aos alunos e otimizando o trabalho docente.
